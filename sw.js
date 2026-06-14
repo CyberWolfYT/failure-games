@@ -1,4 +1,4 @@
-const CACHE = 'failure-games-v7';
+const CACHE = 'failure-games-v9';
 const ASSETS = [
   './',
   './index.html',
